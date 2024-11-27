@@ -1,0 +1,15 @@
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\bin\Debug\net6.0\Airport.exe
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\bin\Debug\net6.0\Airport.deps.json
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\bin\Debug\net6.0\Airport.runtimeconfig.json
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\bin\Debug\net6.0\Airport.dll
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\bin\Debug\net6.0\Airport.pdb
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.csproj.AssemblyReference.cache
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.AssemblyInfoInputs.cache
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.AssemblyInfo.cs
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.csproj.CoreCompileInputs.cache
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.dll
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\refint\Airport.dll
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.pdb
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\Airport.genruntimeconfig.cache
+C:\Users\frederico.dos.santos\OneDrive - Avanade\Fred\Documentos\Learning\Neo4J\Case\Airport\obj\Debug\net6.0\ref\Airport.dll
